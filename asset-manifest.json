@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/responsive-react-site/static/js/main.352ec3dc.chunk.js",
-    "main.js.map": "/responsive-react-site/static/js/main.352ec3dc.chunk.js.map",
+    "main.js": "/responsive-react-site/static/js/main.eddba071.chunk.js",
+    "main.js.map": "/responsive-react-site/static/js/main.eddba071.chunk.js.map",
     "runtime-main.js": "/responsive-react-site/static/js/runtime-main.5bfa536f.js",
     "runtime-main.js.map": "/responsive-react-site/static/js/runtime-main.5bfa536f.js.map",
-    "static/js/2.f061554b.chunk.js": "/responsive-react-site/static/js/2.f061554b.chunk.js",
-    "static/js/2.f061554b.chunk.js.map": "/responsive-react-site/static/js/2.f061554b.chunk.js.map",
+    "static/js/2.ccfc5970.chunk.js": "/responsive-react-site/static/js/2.ccfc5970.chunk.js",
+    "static/js/2.ccfc5970.chunk.js.map": "/responsive-react-site/static/js/2.ccfc5970.chunk.js.map",
     "index.html": "/responsive-react-site/index.html",
-    "static/js/2.f061554b.chunk.js.LICENSE.txt": "/responsive-react-site/static/js/2.f061554b.chunk.js.LICENSE.txt",
+    "static/js/2.ccfc5970.chunk.js.LICENSE.txt": "/responsive-react-site/static/js/2.ccfc5970.chunk.js.LICENSE.txt",
     "static/media/street.jpg": "/responsive-react-site/static/media/street.9379242e.jpg",
     "static/media/svg-1.svg": "/responsive-react-site/static/media/svg-1.036f4b72.svg",
     "static/media/svg-2.svg": "/responsive-react-site/static/media/svg-2.59411a08.svg",
@@ -15,7 +15,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5bfa536f.js",
-    "static/js/2.f061554b.chunk.js",
-    "static/js/main.352ec3dc.chunk.js"
+    "static/js/2.ccfc5970.chunk.js",
+    "static/js/main.eddba071.chunk.js"
   ]
 }
